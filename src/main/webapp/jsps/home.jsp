@@ -46,7 +46,7 @@
 <body>
 
 <header>
-     <h1> WELCOME TO B12 KKDEVOPS NEW EVENING BATCH WILL START DEC 06 2026 Thanks kkfunda </h1>     
+    <marquee> <h1> WELCOME TO B11 KKDEVOPS </h1>   </marquee>  
     <h3>Training | Development | Consulting</h3>
 </header>
 
